@@ -1,0 +1,6 @@
+{
+  "name": "CampusConnect AI",
+  "description": "Voice-first campus problem solver and multilingual reporting platform for students and administration.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
